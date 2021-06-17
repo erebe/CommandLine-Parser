@@ -1,0 +1,11 @@
+---
+application:
+  name: "commandline-parser"
+  project: "sdfsdfsdf"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-commandline-parser"
+  routes:
+  - application_name: "commandline-parser"
+    paths:
+    - "/*"
